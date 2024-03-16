@@ -1,4 +1,4 @@
-# React + Vite
+# This is a website for Mojar Curry which is located in Japan
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
